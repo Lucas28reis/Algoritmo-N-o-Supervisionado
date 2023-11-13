@@ -1,4 +1,4 @@
-# Projeto Final: Análise de Dados e Agrupamento
+# Análise de Dados e Agrupamento
 
 **Objetivo:**
 O presente notebook tem como objetivo realizar uma análise aprofundada dos dados referentes a diversos países, explorando indicadores-chave como a taxa de mortalidade infantil, expectativa de vida, PIB per capita, entre outros. O foco principal é a aplicação de algoritmos de agrupamento, nomeadamente K-Means e DBSCAN, para identificar padrões e segmentar os países em grupos com características semelhantes.
